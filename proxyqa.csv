@@ -1,0 +1,15 @@
+Model,GPT-4 Evaluator,GPT-4-Turbo Evaluator,Ensemble,link
+LLaMA-7B,3.05,3.64,3.34,https://llama.meta.com/
+LLaMA2-7B,2.72,3.04,2.88,https://llama.meta.com/
+LLaMA2-13B,3.97,4.24,4.11,https://llama.meta.com/
+Alpaca-7B,9.14,12.05,10.6,https://crfm.stanford.edu/2023/03/13/alpaca.html
+Vicuna-13B,18.54,21.99,20.26,https://lmsys.org/blog/2023-03-30-vicuna/
+LLaMA2-7B-Chat,19.07,19.2,19.14,https://llama.meta.com/
+LLaMA2-13B-Chat,19.07,19.8,19.44,https://llama.meta.com/
+GPT-3.5-Turbo,23.57,24.3,23.94,https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates
+GPT-4,26.82,27.55,27.19,https://openai.com/gpt-4
+GPT-4-Turbo,33.5,34.37,33.94,https://openai.com/gpt-4
+ReAct(GPT-4),17.35,16.95,17.15,https://arxiv.org/abs/2210.03629
+ReAct(GPT-4-Turbo),21.13,21.26,21.19,https://arxiv.org/abs/2210.03629
+Bard(Gemini Pro),24.5,25.5,25,https://bard.google.com/
+New Bing(Creative Mode),38.67,40.06,39.37,https:/chat.bing.com
